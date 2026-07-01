@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "python-java-starterkits",
+  "pitch": "Generate paired Python and Java starter projects with the same problem and tests.",
+  "language": "python",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "CLI to scaffold matching Python and Java projects",
+    "Shared spec file that defines exercises, inputs, and expected outputs",
+    "Auto-generated unit tests (pytest + JUnit)",
+    "GitHub-ready structure with README and tasks checklist"
+  ],
+  "targetUsers": "CS students learning Java and Python who want mirrored projects for practice and comparison."
+}
